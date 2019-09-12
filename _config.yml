@@ -1,0 +1,24 @@
+title:              Davide Dolce
+email:              davide.dolce@protonmail.com
+description:        Full Stack Developer, gamer and sportsman always looking for new challenges
+author:             Davide Dolce
+baseurl:            "/davidedolce"
+url:                "https://Cramenorn.github.io"
+
+# Social Profiles
+twitter_username:   dvdolce
+github_username:    Cramenorn
+linkedin_username:  ddolce
+youtube_username:   UChBOmFUlCVeQa0P7mq5eDDQ
+
+# Add your google-analytics ID here to activate google analytics
+google_analytics:   UA-XXXXXXXXX-X # out your google-analytics code
+
+# Build settings
+markdown:           kramdown
+paginate:           5
+paginate_path:      "/posts/page:num/"
+plugins:
+  - jekyll-feed
+  - jekyll-paginate
+  - jekyll-sitemap ## Uncomment this line to silently generate a sitemaps.org compliant sitemap for your Jekyll site
