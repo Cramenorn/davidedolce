@@ -92,4 +92,4 @@ Make sure you have the `email` setting in your `_config.yml` file set to a worki
 
 ## Copyright and License
 
-Copyright (c) 2019, [Davide Dolce](https://www.ddolce.com).
+Copyright (c) 2020, [Davide Dolce](https://www.ddolce.com).
