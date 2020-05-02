@@ -14,6 +14,10 @@ youtube_username:   UChBOmFUlCVeQa0P7mq5eDDQ
 # Add your google-analytics ID here to activate google analytics
 google_analytics:   UA-148021640-2 # out your google-analytics code
 
+exclude:
+  - README.md
+  - LICENSE
+
 # Build settings
 markdown:           kramdown
 paginate:           5
