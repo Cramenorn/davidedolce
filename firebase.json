@@ -1,0 +1,20 @@
+{
+  "hosting": {
+    "public": "_site",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**",
+      "Gemfile",
+      "Gemfile.lock",
+      "Rakefile",
+      "CNAME",
+      "README.md",
+      "feed.xml"
+    ]
+  },
+  "rewrites": [{
+    "source": "/",
+    "destination": "/index.html"
+  }]
+}
