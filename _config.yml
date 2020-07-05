@@ -17,6 +17,7 @@ google_analytics:   UA-148021640-2 # out your google-analytics code
 exclude:
   - README.md
   - LICENSE
+  - CNAME
 
 # Build settings
 markdown:           kramdown
